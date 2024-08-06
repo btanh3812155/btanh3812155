@@ -1,4 +1,6 @@
-## Hi there 👋
+### :3
+
+i don't really know what to put here so ig hi im an IT student who's bad at IT
 
 <!--
 **btanh3812155/btanh3812155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
