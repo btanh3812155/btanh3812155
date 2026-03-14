@@ -1,11 +1,9 @@
-### :3
+### readme
 
-i don't really know what to put here so ig hi im an IT student who's bad at IT
+IT student at HCMUS, majoring in networking
 
-currently working on:
+Past projects
 https://github.com/PandoraMiracle/Team-10-Super-Mario-like-game
-
-worked on in the past:
 https://github.com/HCMUS-CSC10002-Group-Project/Course-Management-System/
 https://github.com/puinyu/virus
 
