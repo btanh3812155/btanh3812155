@@ -3,8 +3,11 @@
 IT student at HCMUS, majoring in networking
 
 Past projects
+
 https://github.com/PandoraMiracle/Team-10-Super-Mario-like-game
+
 https://github.com/HCMUS-CSC10002-Group-Project/Course-Management-System/
+
 https://github.com/puinyu/virus
 
 <!--
